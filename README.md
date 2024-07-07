@@ -78,7 +78,7 @@ Open a Pull Request.
 
 ## License
 
-[License](https://www.graphberry.com/item/kasper-one-page-psd-template)
+Kasper is a free PSD template made by Graphberry. [Learn More](https://www.graphberry.com/item/kasper-one-page-psd-template)
 
 ## Contact
 
